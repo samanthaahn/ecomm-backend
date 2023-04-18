@@ -41,6 +41,8 @@ Product.init(
         key: 'id',
       },
   },
+},
+{
     sequelize,
     timestamps: false,
     freezeTableName: true,
